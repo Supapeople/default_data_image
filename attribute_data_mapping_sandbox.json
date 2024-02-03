@@ -1,8 +1,1 @@
-{
-  "7b638cc6-a3cc-4d5b-8c85-223b83a2b3e7": {
-    "imageLink": "https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg",
-    "animationUrl": "",
-    "tokenUri": "https://github.com/Supapeople/default_data_image/blob/main/hoc_data_prod.json",
-    "name": "Players"
-  }
-}
+{"7b638cc6-a3cc-4d5b-8c85-223b83a2b3e7":{"imageLink":"https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg","animationUrl":"","tokenUri":"https://github.com/Supapeople/default_data_image/blob/main/hoc_data_prod.json","name":"Players"}}
