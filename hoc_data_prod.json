@@ -7,75 +7,75 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zeus"
+      "value": "NA"
     },
     {
       "trait_type": "Attack Speed",
-      "value": "1.08"
+      "value": "NA"
     },
     {
       "trait_type": "Body Type",
-      "value": "4"
+      "value": "NA"
     },
     {
       "trait_type": "Head Type",
-      "value": "0"
+      "value": "NA"
     },
     {
       "trait_type": "Damage",
-      "value": "22"
+      "value": "NA"
     },
     {
       "trait_type": "HP",
-      "value": "171"
+      "value": "NA"
     },
     {
       "trait_type": "Speed",
-      "value": "1.04"
+      "value": "NA"
     },
     {
       "trait_type": "Level",
-      "value": "7"
+      "value": "NA"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "NA"
     },
     {
       "trait_type": "Max Daily Hunt Limit",
-      "value": "19"
+      "value": "NA"
     },
     {
       "trait_type": "Accessory #1",
-      "value": "3"
+      "value": "NA"
     },
     {
       "trait_type": "Accessory #2",
-      "value": "0"
+      "value": "NA"
     },
     {
       "trait_type": "Artifact #1",
-      "value": "Attack Distance"
+      "value": "NA"
     },
     {
       "trait_type": "Artifact Rarity #1",
-      "value": "Legendary"
+      "value": "NA"
     },
     {
       "trait_type": "Artifact #2",
-      "value": "Death Strike"
+      "value": "NA"
     },
     {
       "trait_type": "Artifact Rarity #2",
-      "value": "Legendary"
+      "value": "NA"
     },
     {
       "trait_type": "Artifact #4",
-      "value": "Reward Bonus"
+      "value": "NA"
     },
     {
       "trait_type": "Artifact Rarity #4",
-      "value": "Legendary"
+      "value": "NA"
     }
   ]
 }
