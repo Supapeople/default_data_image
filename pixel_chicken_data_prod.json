@@ -1,0 +1,48 @@
+{
+  "description": "Pixel Chickens",
+  "image": "https://i.seadn.io/s/raw/files/55e41d99ee31a23d76ac813d6a5b3842.png?auto=format&dpr=1&w=1000",
+  "animationUrl": "",
+  "name": "Unrevealed Pixel Chicken",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Feet",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Lower Body",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Upper Body",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Holding",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Face",
+      "value": "NA"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NA"
+    }
+  ]
+}
