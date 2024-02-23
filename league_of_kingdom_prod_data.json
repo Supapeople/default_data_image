@@ -1,0 +1,43 @@
+{
+	"description": "League of Kingdoms DRAGO",
+	"image": "https://i.seadn.io/s/raw/files/ececb0ad0c9c73355971854549fb31d8.png?auto=format&dpr=1&w=1000",
+	"animationUrl": "",
+	"name": "Unrevealed Drago",
+	"attributes": [{
+			"trait_type": "ID",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Eye",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Head",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Body",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Wing",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Leg",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "NA"
+		},
+		{
+			"trait_type": "Fusion",
+			"value": "NA"
+		}
+	]
+}
