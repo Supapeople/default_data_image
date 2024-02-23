@@ -1,1 +1,146 @@
-{"02b9908f-ee58-4387-ae57-2792e73a6253":{"imageLink":"https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg","animationUrl":"","tokenUri":"https://metadata.boomland.io/h/", "fallbackTokenUri":"https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json","name":"Players", "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"},"0x20b807b9af56977ef475c089a0e7977540743560": {"imageLink":"https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg","animationUrl":"","tokenUri":"https://metadata.boomland.io/h/","fallbackTokenUri":"https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json","name":"Players", "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"}, "a86bb3a3-f8d0-4594-b5d7-872ee1f187d1":{"imageLink":"https://i.seadn.io/gcs/files/2254dbe53d8298e29de48094b5612426.jpg","animationUrl":"","tokenUri":"https://api.rebelbots.com/troopers/metadata/", "fallbackTokenUri":"https://raw.githubusercontent.com/Supapeople/default_data_image/main/rebel_bots_prod_data.json","name":"Fighting bots", "description": "Build, command, and grow your Fighting Bot army to conquer and earn in Xoil Wars. With 3 classes, 75 parts, 300 unique cards and powerful passive skills, you can create endless combinations to conquer and earn. Join the fight now."},"0x17892c8c3eb60c144872c18f013626471c3658bf":{"imageLink":"https://i.seadn.io/gcs/files/2254dbe53d8298e29de48094b5612426.jpg","animationUrl":"","tokenUri":"https://api.rebelbots.com/troopers/metadata/", "fallbackTokenUri":"https://raw.githubusercontent.com/Supapeople/default_data_image/main/rebel_bots_prod_data.json","name":"Fighting bots", "description": "Build, command, and grow your Fighting Bot army to conquer and earn in Xoil Wars. With 3 classes, 75 parts, 300 unique cards and powerful passive skills, you can create endless combinations to conquer and earn. Join the fight now."}, "0xaaa87514287cf537fd600bffdd2e2d65a3a73c3d": {"imageLink":"https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg","animationUrl":"","tokenUri":"https://metadata.boomland.io/h/", "fallbackTokenUri":"https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json","name":"Players", "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"}, "c704871d-5fc7-4872-b894-c776f18e64f5": {"imageLink":"https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg","animationUrl":"","tokenUri":"https://metadata.boomland.io/h/", "fallbackTokenUri":"https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json","name":"Players", "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"}}
+{
+  "02b9908f-ee58-4387-ae57-2792e73a6253": {
+    "imageLink": "https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg",
+    "animationUrl": "",
+    "tokenUri": "https://metadata.boomland.io/h/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json",
+    "name": "Players",
+    "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "0x20b807b9af56977ef475c089a0e7977540743560": {
+    "imageLink": "https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg",
+    "animationUrl": "",
+    "tokenUri": "https://metadata.boomland.io/h/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json",
+    "name": "Players",
+    "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "a86bb3a3-f8d0-4594-b5d7-872ee1f187d1": {
+    "imageLink": "https://i.seadn.io/gcs/files/2254dbe53d8298e29de48094b5612426.jpg",
+    "animationUrl": "",
+    "tokenUri": "https://api.rebelbots.com/troopers/metadata/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/rebel_bots_prod_data.json",
+    "name": "Fighting bots",
+    "description": "Build, command, and grow your Fighting Bot army to conquer and earn in Xoil Wars. With 3 classes, 75 parts, 300 unique cards and powerful passive skills, you can create endless combinations to conquer and earn. Join the fight now."
+  },
+  "0x17892c8c3eb60c144872c18f013626471c3658bf": {
+    "imageLink": "https://i.seadn.io/gcs/files/2254dbe53d8298e29de48094b5612426.jpg",
+    "animationUrl": "",
+    "tokenUri": "https://api.rebelbots.com/troopers/metadata/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/rebel_bots_prod_data.json",
+    "name": "Fighting bots",
+    "description": "Build, command, and grow your Fighting Bot army to conquer and earn in Xoil Wars. With 3 classes, 75 parts, 300 unique cards and powerful passive skills, you can create endless combinations to conquer and earn. Join the fight now."
+  },
+  "0xaaa87514287cf537fd600bffdd2e2d65a3a73c3d": {
+    "imageLink": "https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg",
+    "animationUrl": "",
+    "tokenUri": "https://metadata.boomland.io/h/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json",
+    "name": "Players",
+    "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "c704871d-5fc7-4872-b894-c776f18e64f5": {
+    "imageLink": "https://i.seadn.io/gcs/files/b401386f5f3d9a49ef01be9136a42c36.jpg",
+    "animationUrl": "",
+    "tokenUri": "https://metadata.boomland.io/h/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_data_prod.json",
+    "name": "Players",
+    "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "43acb12a-1fd9-464d-8aa4-c331944f5091": {
+    "imageLink": "https://i.seadn.io/s/raw/files/ececb0ad0c9c73355971854549fb31d8.png?auto=format&dpr=1&w=1000",
+    "animationUrl": "",
+    "tokenUri": "https://lok-nft.leagueofkingdoms.com/api/drago/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/league_of_kingdom_prod_data.json",
+    "name": "Dragos",
+    "description": "League of Kingdoms DRAGO"
+  },
+  "0x9e8ea82e76262e957d4cc24e04857a34b0d8f062": {
+    "imageLink": "https://i.seadn.io/s/raw/files/ececb0ad0c9c73355971854549fb31d8.png?auto=format&dpr=1&w=1000",
+    "animationUrl": "",
+    "tokenUri": "https://lok-nft.leagueofkingdoms.com/api/drago/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/league_of_kingdom_prod_data.json",
+    "name": "Dragos",
+    "description": "League of Kingdoms DRAGO"
+  },
+  "743a17a1-fc4e-434d-ab64-e019aa9450b5": {
+    "imageLink": "https://dl.openseauserdata.com/cache/originImage/files/7a23f02eb472bc0d66885d0a714f96f8.png",
+    "animationUrl": "",
+    "tokenUri": "https://nft.playaquafarm.net/FarmNft/aree/metadata/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/aqua_farm_prod_data.json",
+    "name": "Aree",
+    "description": "Aree are the ocean fairies that are born from the fruits of the World Tree that grows in the center of Aqua World. Aree live in a micro world called Oasis, on the back of Guardians, the ocean protectors. They grow along with players that own them. In the beginning, all players will begin their Aqua World Adventure with basic Aree."
+  },
+  "0xfde7aca6aca283a5578471ca1000745a6ce8ce81": {
+    "imageLink": "https://dl.openseauserdata.com/cache/originImage/files/7a23f02eb472bc0d66885d0a714f96f8.png",
+    "animationUrl": "",
+    "tokenUri": "https://nft.playaquafarm.net/FarmNft/aree/metadata/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/aqua_farm_prod_data.json",
+    "name": "Aree",
+    "description": "Aree are the ocean fairies that are born from the fruits of the World Tree that grows in the center of Aqua World. Aree live in a micro world called Oasis, on the back of Guardians, the ocean protectors. They grow along with players that own them. In the beginning, all players will begin their Aqua World Adventure with basic Aree."
+  },
+  "37db006f-db97-4541-9b82-5aa50ad1a116": {
+    "imageLink": "https://cdn.blocklords.com/nfts/bearslayer/female.gif",
+    "animationUrl": "",
+    "tokenUri": "https://polygon-hero-nft.blocklords.com/v1/hero-nfts/meta/opensea/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/blocklords_prod_data.json",
+    "name": "Heroes",
+    "description": "BLOCKLORDS is a player-driven medieval grand strategy game where your decisions and skills shape the world and narrative. Choose from several playstyles, including farming, fighting, resource management, and ruling, and forge your own destiny as your hero."
+  },
+  "0xf2af9e14a0969f3fbd168b16fc583a441a893cc9": {
+    "imageLink": "https://cdn.blocklords.com/nfts/bearslayer/female.gif",
+    "animationUrl": "",
+    "tokenUri": "https://polygon-hero-nft.blocklords.com/v1/hero-nfts/meta/opensea/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/blocklords_prod_data.json",
+    "name": "Heroes",
+    "description": "BLOCKLORDS is a player-driven medieval grand strategy game where your decisions and skills shape the world and narrative. Choose from several playstyles, including farming, fighting, resource management, and ruling, and forge your own destiny as your hero."
+  },
+  "3d1ded05-27fa-4812-969a-03cefcbe570c": {
+    "imageLink": "https://nft.metatoycity.io/view/live/material/31294389034761",
+    "animationUrl": "",
+    "tokenUri": "",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/mtmi_prod_data.json",
+    "name": "Material Items",
+    "description": "# [Meta Toy City: Meta Toy Material Item] is a collection of Meta Toy City. \n \n Meta Toy City is a mobile multiplayer role-playing game that offers players Free-to-Play, Guild-fi, Play-and-Earn experience. \n Enter a world where ToyZ have gone wild. Join the guild to start your hack-and-slash adventure! \n \n # Equipment Collection & Buff \n ★0 Mega Water Balloon Treasure - Attack +10 \n ★0 Mega Water Balloon Loot - Attack +5 \n \n *This MATERIAL ITEM can be collected in-game to obtain the following permanent buff"
+  },
+  "0x8cff49cf9b36257bffbcba001890fa20b1dc12d4": {
+    "imageLink": "https://nft.metatoycity.io/view/live/material/31294389034761",
+    "animationUrl": "",
+    "tokenUri": "",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/mtmi_prod_data.json",
+    "name": "Material Items",
+    "description": "# [Meta Toy City: Meta Toy Material Item] is a collection of Meta Toy City. \n \n Meta Toy City is a mobile multiplayer role-playing game that offers players Free-to-Play, Guild-fi, Play-and-Earn experience. \n Enter a world where ToyZ have gone wild. Join the guild to start your hack-and-slash adventure! \n \n # Equipment Collection & Buff \n ★0 Mega Water Balloon Treasure - Attack +10 \n ★0 Mega Water Balloon Loot - Attack +5 \n \n *This MATERIAL ITEM can be collected in-game to obtain the following permanent buff"
+  },
+  "dbb3ac6e-6aac-4bb4-af8c-9a53b141b169": {
+    "imageLink": "https://i.seadn.io/s/raw/files/6ae3045725b8573c296ef856bf4a47bc.png?auto=format&dpr=1&w=3840",
+    "animationUrl": "",
+    "tokenUri": "",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/mtdz_prod_data.json",
+    "name": "Dragons",
+    "description": "**Meta Toy DragonZ**(MTDZ) is a collection of **9999 PFP NFT** designed for **Metaverse** and **P2E**.    **MTDZ#8435** is a pearl hidden in a grain of sand. A dragon made of materials commonly found on the street."
+  },
+  "0x3ab80687502cbd42dcc6d649feea4e75389774de": {
+    "imageLink": "https://i.seadn.io/s/raw/files/6ae3045725b8573c296ef856bf4a47bc.png?auto=format&dpr=1&w=3840",
+    "animationUrl": "",
+    "tokenUri": "",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/mtdz_prod_data.json",
+    "name": "Dragons",
+    "description": "**Meta Toy DragonZ**(MTDZ) is a collection of **9999 PFP NFT** designed for **Metaverse** and **P2E**.    **MTDZ#8435** is a pearl hidden in a grain of sand. A dragon made of materials commonly found on the street."
+  },
+  "8fe36c40-00d2-4aa3-9973-cc9042e6adae": {
+    "imageLink": "https://i.seadn.io/s/raw/files/55e41d99ee31a23d76ac813d6a5b3842.png?auto=format&dpr=1&w=1000",
+    "animationUrl": "",
+    "tokenUri": "https://ipfs.io/ipfs/bafybeifvprgyf72itfvalmoq57ogwitz3pb6jxroakhjc5eqa5lhagvgxy/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/pixel_chicken_data_prod.json",
+    "name": "Chickens",
+    "description": "Pixel Chickens"
+  },
+  "0x254acc869b7025612381c36ebcbebc2df36475eb": {
+    "imageLink": "https://i.seadn.io/s/raw/files/55e41d99ee31a23d76ac813d6a5b3842.png?auto=format&dpr=1&w=1000",
+    "animationUrl": "",
+    "tokenUri": "https://ipfs.io/ipfs/bafybeifvprgyf72itfvalmoq57ogwitz3pb6jxroakhjc5eqa5lhagvgxy/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/pixel_chicken_data_prod.json",
+    "name": "Chickens",
+    "description": "Pixel Chickens"
+  }
+}
