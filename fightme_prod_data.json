@@ -1,0 +1,12 @@
+{
+  "description": "Fight Me: Triumphia Origins",
+  "image": "https://i.seadn.io/s/raw/files/845dadcbfb498f106dadaa1ee25828e2.png?auto=format&dpr=1&w=1000",
+  "animationUrl": "",
+  "name": "Unrevealed Fighter",
+  "attributes": [
+    {
+      "trait_type": "Fighter",
+      "value": "NA"
+    }
+  ]
+}
