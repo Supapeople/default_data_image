@@ -143,10 +143,10 @@
     "name": "Chickens",
     "description": "Pixel Chickens"
   },
-   "3fc6cb89-941a-4a68-9ce7-0586d80e7a21": {
+   "4d4c1c19-025a-4660-9055-da295780f9ee": {
     "imageLink": "https://i.seadn.io/s/raw/files/28ff5f36a9218b077d79ad472a6a8393.png?auto=format&dpr=1&w=1000",
     "animationUrl": "",
-    "tokenUri": "dummy",
+    "tokenUri": "",
     "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/fightme_prod_data.json",
     "name": "Fighters",
     "description": "Fight Me: Triumphia Origins"
@@ -154,7 +154,7 @@
   "0xf214e792f8a5c199ee69288b6832b14b325d94ed": {
     "imageLink": "https://i.seadn.io/s/raw/files/28ff5f36a9218b077d79ad472a6a8393.png?auto=format&dpr=1&w=1000",
     "animationUrl": "",
-    "tokenUri": "dummy",
+    "tokenUri": "",
     "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/fightme_prod_data.json",
     "name": "Fighters",
     "description": "Fight Me: Triumphia Origins"
