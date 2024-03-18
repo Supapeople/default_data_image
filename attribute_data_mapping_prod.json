@@ -158,5 +158,21 @@
     "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/fightme_prod_data.json",
     "name": "Fighters",
     "description": "Fight Me: Triumphia Origins"
+  },
+    "8b1a1dc0-f2a4-4f96-b831-b456be0ddc8b": {
+    "imageLink": "https://media.affyn.com/OGbuddygif.gif",
+    "animationUrl": "",
+    "tokenUri": "https://be-prd-data-worldviewer.affyn.com/api/v1/ogegg/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/buddy_arena_prod_data.json",
+    "name": "Mythical Buddies",
+   "description":"In the far reaches of the eastern continent atop the highest hills, I found myself lost for weeks in an unfathomably sprawling woodland. My Buddy companion had long run off somewhere, and I was left alone with no internet, no battery and no water. By chance, I stumbled across a magical spring littered with flower petals. It was then, I heard a voice: “Is this your Buddy?” A Purrfyn emerges from the brush, to my confusion, before disappearing again. “Or this is your Buddy?” An Aquma’s head pops out of the water before diving just as quick. It was the last thing I remembered before everything faded to white. I awoke later, in a nearby base camp. I was told that my Buddy had come to them for help and led them to me. I looked down to find a peculiarly colored Aquma carrying the scent of tea. How strange, I thought to myself, my Buddy was a Chukwa. (The diary of a bewildered researcher - NEXUS Research Society)",
+  },
+  "0x34de3b2ef6de150f7307543599457e0de74dfad4": {
+    "imageLink": "https://media.affyn.com/OGbuddygif.gif",
+    "animationUrl": "",
+    "tokenUri": "https://be-prd-data-worldviewer.affyn.com/api/v1/ogegg/",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/buddy_arena_prod_data.json",
+    "name": "Mythical Buddies",
+   "description":"In the far reaches of the eastern continent atop the highest hills, I found myself lost for weeks in an unfathomably sprawling woodland. My Buddy companion had long run off somewhere, and I was left alone with no internet, no battery and no water. By chance, I stumbled across a magical spring littered with flower petals. It was then, I heard a voice: “Is this your Buddy?” A Purrfyn emerges from the brush, to my confusion, before disappearing again. “Or this is your Buddy?” An Aquma’s head pops out of the water before diving just as quick. It was the last thing I remembered before everything faded to white. I awoke later, in a nearby base camp. I was told that my Buddy had come to them for help and led them to me. I looked down to find a peculiarly colored Aquma carrying the scent of tea. How strange, I thought to myself, my Buddy was a Chukwa. (The diary of a bewildered researcher - NEXUS Research Society)",
   }
 }
