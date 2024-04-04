@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "external_url": "https://playsipher.com",
+  "image": "https://sipherstorage.s3.ap-southeast-1.amazonaws.com/imgs-neko/neko_005555_wink.png",
+  "animationUrl": "",
+  "name": "Unrevealed Sipher",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "NA"
+    },
+    {
+      "trait_type": "costume",
+      "value": "NA"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "NA"
+    },
+    {
+      "trait_type": "fur color",
+      "value": "NA"
+    }
+  ]
+}
