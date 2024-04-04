@@ -1,0 +1,53 @@
+{
+  "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
+  "external_url": "https://www.planetmojo.io/champion/23478",
+  "image": "https://planetmojo-images-prod.s3.amazonaws.com/champions/PlatypusVeren_Base_Common.jpg",
+  "animationUrl": "",
+  "name": "Unrevealed Champion",
+  "attributes": [
+    {
+      "value": "Clan Umbran",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Rogue",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Veren Mostelier",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Male",
+      "trait_type": "NA"
+    },
+    {
+      "value": "River",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Foundation",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Venomous Green",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Light Armor",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Deadly Dance",
+      "trait_type": "NA"
+    },
+    {
+      "value": "3D",
+      "trait_type": "NA"
+    },
+    {
+      "value": "Common",
+      "trait_type": "NA"
+    }
+  ]
+}
