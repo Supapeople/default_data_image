@@ -206,5 +206,21 @@
     "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/nexus_world_prod_data.json",
     "name": "Nexus World Land",
     "description": "View this land's exact location here : https://maps.affyn.com/8a28347597b7fff Fields of grass, lush forests, vibrant plant life. Of the 4 known biomes of NEXUS World, the Grass Land are the most bountiful and hospitable to life. They aren't very different from tropical environments from our own world apart from the vast differences in plant species. With an abundant selection of plants, food and resources, these areas make great first places to explore for any NEXUS World explorer. Artwork map from OpenStreetMap (https://www.openstreetmap.org/copyright)"
+  },
+  "0xd55afe00b6d154a0d8f43e94ab744bb90d9b69dc": {
+    "imageLink": "https://i.seadn.io/s/raw/files/bf169c60efdf98d8390a63a02625cbd9.png",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://github.com/Supapeople/default_data_image/blob/main/rogue_nation_prod_data.json",
+    "name": "Yuna Cosmetics",
+    "description": "Step into the enchanting Land of Yuna with our exclusive character cosmetics collection! These unique, handcrafted items allow you to personalize your characters like never before. Inspired by the rich lore of Yuna, each cosmetic piece brings a personal touch to your in-game experience."
+  },
+  "0528c31b-8318-495b-83ac-77f01d37693b": {
+    "imageLink": "https://i.seadn.io/s/raw/files/bf169c60efdf98d8390a63a02625cbd9.png",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://github.com/Supapeople/default_data_image/blob/main/rogue_nation_prod_data.json",
+    "name": "Yuna Cosmetics",
+    "description": "Step into the enchanting Land of Yuna with our exclusive character cosmetics collection! These unique, handcrafted items allow you to personalize your characters like never before. Inspired by the rich lore of Yuna, each cosmetic piece brings a personal touch to your in-game experience."
   }
 }
