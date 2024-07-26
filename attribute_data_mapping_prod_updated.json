@@ -222,5 +222,37 @@
     "fallbackTokenUri": "https://github.com/Supapeople/default_data_image/blob/main/rogue_nation_prod_data.json",
     "name": "Yuna Cosmetics",
     "description": "Step into the enchanting Land of Yuna with our exclusive character cosmetics collection! These unique, handcrafted items allow you to personalize your characters like never before. Inspired by the rich lore of Yuna, each cosmetic piece brings a personal touch to your in-game experience."
+  },
+  "0x4f584620de684b9939fcb99fec901894406db7e7": {
+    "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/collection_trademark/hoc-imx/common/Screenshot+2024-07-26+at+8.29.54%E2%80%AFPM.png",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "name": "Common",
+    "description": "Hunters are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "01e8edd5-7b50-40eb-b664-7af8f9e567f9": {
+    "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/collection_trademark/hoc-imx/common/Screenshot+2024-07-26+at+8.29.54%E2%80%AFPM.png",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "name": "Common",
+    "description": "Hunters are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "0x34a0321e464f7afba27b5d640707ab01660705bd": {
+    "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/collection_trademark/hoc-imx/premium/Screenshot+2024-07-26+at+8.30.09%E2%80%AFPM.png",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "name": "Premium",
+    "description": "Hunters are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "92b193b6-689e-4cc6-803f-b99d8c393629": {
+    "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/collection_trademark/hoc-imx/premium/Screenshot+2024-07-26+at+8.30.09%E2%80%AFPM.png",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "name": "Premium",
+    "description": "Hunters are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
   }
 }
