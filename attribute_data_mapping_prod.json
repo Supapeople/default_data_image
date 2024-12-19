@@ -254,5 +254,21 @@
     "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
     "name": "Premium",
     "description": "Hunters are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won't be two identical Hunters...ever!"
+  },
+  "0x66efaf92df6456c3cb810012b2de3fb223c25d0d": {
+    "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/game_assets/Captain%20Laserhawk/images/Niji%20Warrior/e9be5b31-b764-476d-9c4e-175afd837e91.gif",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "name": "Niji Warrior",
+    "description": "Ubisoft's new G.A.M.E., Captain Laserhawk™, introduces the Niji Warriors: 10,000 dynamic NFTs that evolve as you play and vote. Shape game features, unlock exclusive rewards, and rise as the ultimate Niji Warrior."
+  },
+  "901c018f-2765-4a1f-b090-972fcef6ba89": {
+    "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/game_assets/Captain%20Laserhawk/images/Niji%20Warrior/e9be5b31-b764-476d-9c4e-175afd837e91.gif",
+    "animationUrl": "",
+    "tokenUri": "dummy",
+    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "name": "Niji Warrior",
+    "description": "Ubisoft's new G.A.M.E., Captain Laserhawk™, introduces the Niji Warriors: 10,000 dynamic NFTs that evolve as you play and vote. Shape game features, unlock exclusive rewards, and rise as the ultimate Niji Warrior."
   }
 }
