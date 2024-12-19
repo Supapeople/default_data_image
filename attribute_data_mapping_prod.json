@@ -259,7 +259,7 @@
     "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/game_assets/Captain%20Laserhawk/images/Niji%20Warrior/e9be5b31-b764-476d-9c4e-175afd837e91.gif",
     "animationUrl": "",
     "tokenUri": "dummy",
-    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "fallbackTokenUri": "https://github.com/Supapeople/default_data_image/blob/main/captain_laserhawk_niji_warrior_prod.json",
     "name": "Niji Warrior",
     "description": "Ubisoft's new G.A.M.E., Captain Laserhawk™, introduces the Niji Warriors: 10,000 dynamic NFTs that evolve as you play and vote. Shape game features, unlock exclusive rewards, and rise as the ultimate Niji Warrior."
   },
@@ -267,7 +267,7 @@
     "imageLink": "https://supaki-media.s3.ap-southeast-1.amazonaws.com/game_assets/Captain%20Laserhawk/images/Niji%20Warrior/e9be5b31-b764-476d-9c4e-175afd837e91.gif",
     "animationUrl": "",
     "tokenUri": "dummy",
-    "fallbackTokenUri": "https://raw.githubusercontent.com/Supapeople/default_data_image/main/hoc_imx_data_prod.json",
+    "fallbackTokenUri": "https://github.com/Supapeople/default_data_image/blob/main/captain_laserhawk_niji_warrior_prod.json",
     "name": "Niji Warrior",
     "description": "Ubisoft's new G.A.M.E., Captain Laserhawk™, introduces the Niji Warriors: 10,000 dynamic NFTs that evolve as you play and vote. Shape game features, unlock exclusive rewards, and rise as the ultimate Niji Warrior."
   }
